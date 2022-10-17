@@ -1,0 +1,7 @@
+total 0
+drwxr-xr-x 1 이유빈 197121 0 Sep 26 08:34 Test1/
+drwxr-xr-x 1 이유빈 197121 0 Sep 26 08:25 Test22/
+-rw-r--r-- 1 이유빈 197121 0 Sep 29 07:57 file_list.txt
+
+This is file_list. 
+Practice about 'nano'

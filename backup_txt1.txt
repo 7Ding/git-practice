@@ -1,0 +1,4 @@
+ㅑㅃ뺘뺘뺘ㅃ뺘뺘뺘뺘ㅃ
+Write Shell script and run it.....
+This is an example of Shell script
+ 
